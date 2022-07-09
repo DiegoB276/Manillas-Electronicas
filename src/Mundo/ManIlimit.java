@@ -1,4 +1,6 @@
 package Mundo;
+/*Esta clase es de manillas ilimitadas, necesitamos el numero de manilla, la edad, tipo de entrada.
+Llamamos al constructor hecho para manillas ilimitadas (El que no tiene valor).*/
 
 public class ManIlimit extends Manillas {
 
