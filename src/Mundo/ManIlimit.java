@@ -4,8 +4,8 @@ Llamamos al constructor hecho para manillas ilimitadas (El que no tiene valor).*
 
 public class ManIlimit extends Manillas {
 
-	public ManIlimit(int numManillaP, int edadP, double valorP, String tipoEntradaP) {
-		super(numManillaP, edadP, valorP, tipoEntradaP);
+	public ManIlimit(int numManillaP, int edadP, String tipoEntradaP) {
+		super(numManillaP, edadP, tipoEntradaP);
 	}
 
 	/*Calcula el precio a cobrar, como es ilimitada no cobra nada, solo cuenta los numeros de accesos*/
